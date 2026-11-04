@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.streamlit/secrets.toml
+data/*.csv
+!data/README.md
+resultados/
+.env
+.DS_Store
